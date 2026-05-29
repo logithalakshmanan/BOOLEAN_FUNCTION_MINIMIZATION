@@ -32,6 +32,7 @@ Hardware – PCs, Cyclone II , USB flasher
 
 
 **Program:**
+```
 
 module exp2 (
     input A, B, C, D,
@@ -54,6 +55,7 @@ assign F2 = (x & ~y & z) |
             (w & x & y);
 
 endmodule
+```
 Developed by:LOGITHA L
  RegisterNumber:212225040207
 
